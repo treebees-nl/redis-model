@@ -11,7 +11,7 @@ Redis is not the place to store complex relational data and Redis emphasizes its
 
 | Redis Version | Laravel version(s) |
 | :---: | :---: |
-| 0.x | 8 / 9 / 10 |
+| 0.x | 8 / 9 / 10 / 11 |
 
 ### Model Supports
 

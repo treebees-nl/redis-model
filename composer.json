@@ -17,8 +17,8 @@
     ],
     "require": {
         "php": "^8.0.2",
-        "illuminate/database": "^8|^9|^10",
-        "illuminate/console": "^8|^9|^10",
+        "illuminate/database": "^8|^9|^10|^11",
+        "illuminate/console": "^8|^9|^10|^11",
         "predis/predis": "^2"
     },
     "require-dev": {
