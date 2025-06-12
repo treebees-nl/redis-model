@@ -1,5 +1,5 @@
 {
-    "name": "alvin0/redis-model",
+    "name": "treebees-nl/redis-model",
     "description": "Introducing Redis Model - a Laravel package that connects to Redis and functions similarly to Eloquent Model, offering efficient data manipulation and retrieval capabilities.",
     "keywords": [
         "laravel",
